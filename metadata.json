@@ -1,0 +1,5 @@
+{
+  "name": "ERC20 Token Airdropper",
+  "description": "A web application to continuously transfer ERC20 tokens to three specified Ethereum addresses while a button is held down. This tool facilitates rapid, repeated token distributions for testing or airdrop scenarios.",
+  "requestFramePermissions": []
+}
